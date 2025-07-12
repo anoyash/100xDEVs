@@ -30,6 +30,7 @@ body {
 .menuoptions {
   height: 100%;
   width: 25%;
+  color: #666;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -65,6 +66,7 @@ body {
 .mainbodytext {
   height: 30%;
   width: 100%;
+  color: #666;
   font-size: 25px;
   text-align: center;
   padding-bottom: 1%;
